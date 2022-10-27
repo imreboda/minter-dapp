@@ -142,7 +142,7 @@ header .container {
   position: relative;
   background-color: var(--bg-color);
   border-radius: 5px;
-  border: 0px solid var(--accent-color);
+  border: 3px solid var(--accent-color);
   box-shadow: var(--card-shadow);
   padding: 5rem;
   margin-bottom: 2rem;
@@ -325,7 +325,7 @@ section {
 
 .splide__slide {
   border: var(--accent-color) solid;
-  border-width: 5px 10px;
+  border-width: 0px 0px;
 }
 
 .splide__slide img {
